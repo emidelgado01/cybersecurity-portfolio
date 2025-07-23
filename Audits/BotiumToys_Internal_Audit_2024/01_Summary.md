@@ -5,7 +5,7 @@
 This project was completed as part of the Google Cybersecurity Professional Certificate.  
 The scenario is based on a fictional U.S. company, **Botium Toys**, which is experiencing rapid online growth and is concerned about compliance, security risks, and business continuity.
 
-To read the full scenario you can find it [here](./02_Scenario.md)
+To read the full scenario you can find it [here](./02_Scenario.md).
 
 ## Objective
 
@@ -37,7 +37,7 @@ Key recommendations include:
 - Properly classify assets and maintain up-to-date privacy and compliance documentation.
 - Conduct regular security awareness training for staff.
 
-Full recommendations and details can be found [here](./recommendations.md).
+Full recommendations and details can be found [here](./Recommendations.md).
 
 ---
 
