@@ -5,6 +5,8 @@
 This project was completed as part of the Google Cybersecurity Professional Certificate.  
 The scenario is based on a fictional U.S. company, **Botium Toys**, which is experiencing rapid online growth and is concerned about compliance, security risks, and business continuity.
 
+To read the full scenario you can find it [here](./02_Scenario.md)
+
 ## Objective
 
 Conduct an internal IT audit by reviewing the company’s scope, goals, and risk assessment, then complete a security controls and compliance checklist to assess the company’s current security posture.
